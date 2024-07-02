@@ -1,0 +1,1 @@
+Welcome to my portfolio! Here, I present some of my projects, which I created to self-learn how machine learning can be applied across various domains. These projects have provided me with hands-on experience and a solid skill set in machine learning. I am very proud of my work, and I hope you find these projects as interesting and valuable as I do.
